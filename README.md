@@ -1,6 +1,6 @@
 # 📘 LAB 1: Foundations of Blockchain – Simulating a Chain & Deploying an Immutable Poll
 
-**Duration:** 2–3 hours  
+**Duration:** 1 hour  
 **Difficulty:** Beginner  
 **Alignment:** Course Objectives 1 & 6 (Understand blockchain principles; Build a basic prototype/dApp)  
 **Prerequisites:** Basic Python knowledge, ability to install browser extensions, internet connection
@@ -59,18 +59,6 @@
    - Copy contract address from Remix
    - Paste into: https://sepolia.etherscan.io/
    - View transaction hashes, events, and gas usage
-
----
-
-## 📤 Deliverables & Submission
-Submit a single PDF containing:
-1. **Python Output**: Screenshot of console output showing valid chain + tampered detection
-2. **Remix Deployment**: Screenshot showing successful deployment & transaction hash
-3. **Etherscan Verification**: Screenshot of your contract on Sepolia Etherscan with at least 2 vote transactions
-4. **Reflection Answers** (max 300 words total):
-   - How does the Python simulation demonstrate immutability?
-   - How does deploying on Sepolia differ from running the Python script locally?
-   - What real-world use case would benefit from an immutable polling/audit system?
 
 ---
 
